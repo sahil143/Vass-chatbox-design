@@ -1,2 +1,2 @@
 # Vass-chatbox-design
-![Posts] (images/image.png)
+[Posts](images/image.png)
